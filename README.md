@@ -4,6 +4,8 @@ Minecraft Bedrock Edition 用のリソースパックです。
 
 このテクスチャパックは工場長という人のイメージキャラクターの「さんぼんげ」を取り込んだfantextureとなります。
 
+![プレビュー](docs/assets/image.png)
+
 工場長のXアカウント: https://x.com/momonga775
 
 ## インストール
@@ -25,7 +27,8 @@ Minecraft Bedrock Edition 用のリソースパックです。
 
 ### 効果
 
-- （パックの効果を記載）
+- 寝ているさんぼんげのベッドデザインが適用されます
+- さんぼんげ帽子が適用されます
 
 ### 注意事項
 
