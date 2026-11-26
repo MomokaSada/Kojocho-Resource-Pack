@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "工場リソースパック",
+        "name": "Kojocho-Resource-Pack",
+        "uuid": "0587aed3-eada-4f66-b6ba-73f1eca87973",
+        "version": [0, 0, 2],
+        "min_engine_version": [ 1, 17, 30 ]
+    },
+    "modules": [
+        {
+            "description": "工場リソースパック",
+            "type": "resources",
+            "uuid": "e2dd7885-807e-42b1-9d8e-19242c9aa054",
+            "version": [0, 0, 1]
+        }
+    ]
+}
